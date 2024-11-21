@@ -16,10 +16,10 @@ To use this repository and run the notebooks, you will need to have Python and t
 
 Installation
 To get started with this repository, clone it to your local machine:
-- code: git clone https://github.com/Lazycodes/Applied_Data_Science_with_Python_Study.git
+- code: git clone https://github.com/Lazycodes/Presidents_Dataset_Cleaning_Project.git
   
 Navigating to directory
-- code: cd Applied_Data_Science_with_Python_Study
+- code: cd Presidents_Dataset_Cleaning_Project
 
 ---
 
@@ -30,13 +30,13 @@ The following was the dataset used:
 
 The dataset includes the following details about presidents:
 
-President: Full name of the president.
-Born: The birth date of the president.
-Age atstart of presidency: Age when the president was elected and date they entered.
-Age atend of presidency: Age the president left office and date they left.
-Post-presidencytimespan: The number of years the president lived after leaving office.
-Died: The date of death of the president
-Age: The age of the president at the time of their death.
+- President: Full name of the president.
+- Born: The birth date of the president.
+- Age atstart of presidency: Age when the president was elected and date they entered.
+- Age atend of presidency: Age the president left office and date they left.
+- Post-presidencytimespan: The number of years the president lived after leaving office.
+- Died: The date of death of the president
+- Age: The age of the president at the time of their death.
 
 ---
 
@@ -50,18 +50,18 @@ The cleaning process included but was not limited to:
 
 ### Dataset features after cleaning
 
-President: Full name of the president.
-Born: The birth date of the president.
-Start of Presidency: date president entered office
-End of Presidency: date president left office
-Years lived after Presidency: The number of years the president lived after leaving office.
-Died: The date of death of the president
-Age: Age of death of president
-Firstname: First name of president
-Lastname: Last name of president
-Age at the start of Presidency: Age when the president was elected
-Age at the end of Presidency: Age the president left office
-Next_President_Start: Date next president assumes office
+- President: Full name of the president.
+- Born: The birth date of the president.
+- Start of Presidency: date president entered office
+- End of Presidency: date president left office
+- Years lived after Presidency: The number of years the president lived after leaving office.
+- Died: The date of death of the president
+- Age: Age of death of president
+- Firstname: First name of president
+- Lastname: Last name of president
+- Age at the start of Presidency: Age when the president was elected
+- Age at the end of Presidency: Age the president left office
+- Next_President_Start: Date next president assumes office
 
 ---
 
