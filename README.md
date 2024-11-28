@@ -16,7 +16,7 @@ To use this repository and run the notebooks, you will need to have Python and t
 
 Installation
 To get started with this repository, clone it to your local machine:
-- code: git clone https://github.com/Lazycodes/Presidents_Dataset_Cleaning_Project.git
+- code: git clone https://github.com/AsuquoAA/Presidents_Dataset_Cleaning_Project.git
   
 Navigating to directory
 - code: cd Presidents_Dataset_Cleaning_Project
@@ -26,7 +26,7 @@ Navigating to directory
 
 ## Dataset 
 The following was the dataset used:
-1. <a href="https://github.com/Lazycodes/First_Data_Cleaning/blob/main/presidents.csv">Presidents.csv</a>
+1. <a href="https://github.com/AsuquoAA/First_Data_Cleaning/blob/main/presidents.csv">Presidents.csv</a>
 
 The dataset includes the following details about presidents:
 
@@ -69,7 +69,7 @@ The cleaning process included but was not limited to:
 ## Challenges Faced
 
 1. Inconsistent Date Formats: Several entries had non-standard
-2. Missing Data: Some presidents did not have DPost-presidencytimespan values.
+2. Missing Data: Some presidents did not have Post-presidencytimespan values.
 3. Handling Living Presidents: Properly marking and imputing data for presidents still alive.
 
 ---
